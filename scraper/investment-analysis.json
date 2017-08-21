@@ -1,0 +1,818 @@
+[
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Abel does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Support Build Alfonse) for Alfonse does not have an investment cost tag and it should be LOW because of the skills: [\"Wings of Mercy 3\",\"Reprisal\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Prince of Askr) for Alfonse does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (QuadAlfonse) for Alfonse does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Almsgiving) for Alm does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Renewal 3\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Amelia does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Minimal Investment Anna) for Anna does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Vengeance\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Field Teleporter) for Anna does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Desperation 3\",\"Reprisal\",\"Ardent Sacrifice\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quadanna) for Anna does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Arthur does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Sword Demon's Apprentice) for Athena does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Athena) for Athena does not have an investment cost tag and it should be LOW because of the skills: [\"Seal Atk 3\",\"Threaten Spd 3\",\"Draw Back\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Support) for Azura does not have an investment cost tag and it should be LOW because of the skills: [\"Darting Blow 3\",\"Wings of Mercy 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fury Offensive Support Azura) for Azura does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Wings of Mercy 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Barst God) for Barst does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Axebreaker 3\",\"Luna\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Berkut does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Wyvern Lord) for Beruka does not have an investment cost tag and it should be LOW because of the skills: [\"Iote's Shield\",\"Renewal 3\",\"Threaten Atk 3\",\"Bonfire\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Boey) for Boey does not have an investment cost tag and it should be LOW because of the skills: [\"Threaten Atk 3\",\"Swap\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Check-and-Bait!) for Boey does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Gronnraven+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Bruno does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Scourge of the Skies) for Caeda does not have an investment cost tag and it should be HIGH because of the skills: [\"Swift Sparrow 2\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Light Flier) for Caeda does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Killing Edge+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Anti-Mage/Buffbot Caeda) for Caeda (Bridal Blessings) does not have an investment cost tag and it should be LOW because of the skills: [\"B Tomebreaker 3\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Cain does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Raven/Adept) for Camilla (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Gronnraven+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Flier Emblem) for Camilla (Spring Festival) does not have an investment cost tag and it should be HIGH because of the skills: [\"Hone Fliers\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Camus does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Flier Emblem) for Catria does not have an investment cost tag and it should be HIGH because of the skills: [\"Hone Fliers\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Horse Emblem Utility-Cannon) for Cecilia does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Ward Cavalry\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (One-Shot Wonder) for Cecilia does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Gronnblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Glass Cannon) for Celica does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fury Desperation Celica) for Celica does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Desperation 3\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Lance+) for Charlotte (Bridal Blessings) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Mobile Nuke) for Cherche does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Sword) for Chrom does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Brave Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Healer) for Chrom does not have an investment cost tag and it should be LOW because of the skills: [\"Speed +3\",\"Renewal 3\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Suicide Lead) for Chrom (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Killer Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Duelist) for Chrom (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Killer Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Clair Airline) for Clair does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Iceberg\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quad-Clair) for Clair does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Gravity Bomb) for Clarine does not have an investment cost tag and it should be LOW because of the skills: [\"HP +5\",\"Wings of Mercy 3\",\"Goad Cavalry\",\"Kindled-Fire Balm\",\"Rehabilitate\",\"Gravity\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Clarisse does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Clive does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Lance+) for Cordelia does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Hit and Run\",\"Luna\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Firesweep Lance+) for Cordelia does not have an investment cost tag and it should be HIGH because of the skills: [\"Swift Sparrow 2\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quadruple Attacker) for Cordelia (Bridal Blessings) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Bow+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Firesweep Bow+) for Cordelia (Bridal Blessings) does not have an investment cost tag and it should be HIGH because of the skills: [\"Firesweep Bow+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Budget Support) for Cordelia (Bridal Blessings) does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Fortify Def 3\",\"Draconic Aura\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Anti Falchion) for Corrin (F) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Speedy Tank) for Corrin (F) does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Desperation 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Corrin (F) (Nohrian Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (General Utility and Offtank) for Corrin (M) does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Swordbreaker 3\",\"Threaten Def 3\",\"Moonbow\",\"Rally Attack\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Delthea does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Make Brave Lance Great Again!) for Donnel does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Vantage 3\",\"Threaten Atk 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Myrmidon Draug) for Draug does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Killing Edge+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Distant Counter) for Effie does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Effie) for Effie does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Support) for Eirika does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Swordbreaker 3\",\"Moonbow\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Green Mage Counter Support) for Eirika does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Tank) for Eldigan does not have an investment cost tag and it should be LOW because of the skills: [\"Swordbreaker 3\",\"Savage Blow 3\",\"Bonfire\",\"Swap\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (QR Eldigan) for Eldigan does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Elise does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Elise (Nohrian Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (One-Punch Wood) for Eliwood does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Swordbreaker 3\",\"Moonbow\",\"Swap\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Prince of War) for Ephraim does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Lancebreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Sibling Bonds) for Ephraim does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Lancebreaker 3\",\"Hone Spd 3\",\"Rally Defense\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (The Fury of Renais) for Ephraim does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fae: Bane of Blues) for Fae does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Lightning Breath+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Pure Damage - Attack) for Faye does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Poison Strike 3\",\"Threaten Def 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Pure Damage - Speed) for Faye does not have an investment cost tag and it should be LOW because of the skills: [\"Darting Blow 3\",\"Poison Strike 3\",\"Threaten Spd 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Debuffing Support Faye) for Faye does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Seal Atk 3\",\"Threaten Spd 3\",\"Glacies\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Support Felicia) for Felicia does not have an investment cost tag and it should be LOW because of the skills: [\"HP +5\",\"Seal Spd 3\",\"Hone Atk 3\",\"Iceberg\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Mage Hunter) for Felicia does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Rogue Dagger+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fir) for Fir does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Wo Dao+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Lancebreaker) for Florina does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Physical Nuke) for Frederick does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Frederick (Ylissean Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Player Phase Candy Stealer) for Gaius does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Poison Dagger+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Gaius (Ylissean Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Genny) for Genny does not have an investment cost tag and it should be LOW because of the skills: [\"Attack +3\",\"Savage Blow 3\",\"Kindled-Fire Balm\",\"Rehabilitate\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Magic Wall Genny) for Genny does not have an investment cost tag and it should be LOW because of the skills: [\"Resistance +3\",\"Panic\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Gordin does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Horse Emblem Low-Cost Gunter) for Gunter does not have an investment cost tag and it should be LOW because of the skills: [\"Seal Atk 3\",\"Bonfire\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Bravest Hana) for Hana does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Nabata Guardian) for Hawkeye does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Axe+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Standard Tank) for Hector does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Panic Ploy 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Raven Adept) for Henry does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Hinata does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Standard Brave Lance+) for Hinoka does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Lancebreaker 3\",\"Threaten Def 3\",\"Luna\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Sword Tank) for Ike does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Heavy Blade Ike) for Ike does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (True Damage Jaffar) for Jaffar does not have an investment cost tag and it should be LOW because of the skills: [\"Poison Strike 3\",\"Savage Blow 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Windsweeper Jaffar) for Jaffar does not have an investment cost tag and it should be HIGH because of the skills: [\"Windsweep 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Jagen does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Useful Butler) for Jakob does not have an investment cost tag and it should be LOW because of the skills: [\"HP +5\",\"Threaten Atk 3\",\"Luna\",\"Ardent Sacrifice\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Jeorge does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Angel of Death) for Kagero does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Desperation) for Kagero does not have an investment cost tag and it should be LOW because of the skills: [\"Darting Blow 3\",\"Desperation 3\",\"Moonbow\",\"Ardent Sacrifice\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Hot Stove) for Kagero does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Vantage 3\",\"Hone Atk 3\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Karel does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Wayward Sage) for Katarina does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Rauðrblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Katarina) for Katarina does not have an investment cost tag and it should be LOW because of the skills: [\"R Tomebreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Klein) for Klein does not have an investment cost tag and it should be LOW because of the skills: [\"Threaten Spd 3\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Spread Damager) for Lachesis does not have an investment cost tag and it should be LOW because of the skills: [\"Defense +3\",\"Wings of Mercy 3\",\"Savage Blow 3\",\"Swift-Winds Balm\",\"Recover\",\"Pain\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Leo (Nohrian Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Leon does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Speed is Key (+Spd)) for Linde does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Speed is Key (+Atk)) for Linde does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Lissa does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Mage Killer) for Lloyd does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Set) for Lon'qu does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Healer) for Lucina does not have an investment cost tag and it should be LOW because of the skills: [\"Darting Blow 3\",\"Renewal 3\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Desperado) for Lucina does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Desperation 3\",\"Threaten Spd 3\",\"Moonbow\",\"Ardent Sacrifice\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Drag Back) for Lucina does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Drag Back\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Super Spring Lucina!) for Lucina (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Bladebuster Blucina) for Lucina (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Lucius does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Bait and Melt) for Lukas does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Luke) for Luke does not have an investment cost tag and it should be LOW because of the skills: [\"Renewal 3\",\"Draw Back\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Lyn) for Lyn does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Brash Assault 3\",\"Threaten Def 3\",\"Moonbow\",\"Reciprocal Aid\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (No Counter for You) for Lyn (Bridal Blessings) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Mae does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Maria does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Hero King Marth) for Marth does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Renewal 3\",\"Threaten Atk 3\",\"Bonfire\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Marth (Masked) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Mathilda does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Matthew does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Merric does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Flying Tank) for Michalis does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Flier) for Minerva does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Supersonic) for Minerva does not have an investment cost tag and it should be LOW because of the skills: [\"Desperation 3\",\"Threaten Def 3\",\"Moonbow\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Mist does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Narcian does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Lord NaFarquaad) for Navarre does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Bow + Desperation) for Niles does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Bow+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Standard Ninian) for Ninian does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Dark Breath+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fury Build) for Nino does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Desperation 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Glass Nuke) for Nino does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fury/Breaker) for Nowi does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Swordbreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Triangle Adept/Quick Riposte) for Nowi does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Triangle Adept/Lancebreaker) for Nowi does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Lancebreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Triangle Adept/Vantage) for Nowi does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Vantage 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Killer Wall) for Oboro does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Wall) for Oboro does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Brave Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Odin does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Basic Brave Sword Ogma) for Ogma does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Drag Back\",\"Luna\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (ORKO Ogma) for Ogma does not have an investment cost tag and it should be HIGH because of the skills: [\"Swift Sparrow 2\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Standard Dancer Olivia) for Olivia does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Ruby Sword+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Blitzkrieg) for Olwen does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Horse Cavalry Bladetome Olwen) for Olwen does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Peri does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Priscilla does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Raigh does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Raven does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Get Doubled) for Rebecca does not have an investment cost tag and it should be LOW because of the skills: [\"Desperation 3\",\"Threaten Def 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Hammer Down!) for Reinhardt does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Wings of Mercy 3\",\"Luna\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (A Tactical Approach) for Robin (F) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Gronnraven+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Robin (F) (Ylissean Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Checkmate) for Robin (M) does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Swordbreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Time to Tip The Scales!) for Robin (M) does not have an investment cost tag and it should be LOW because of the skills: [\"Triangle Adept 3\",\"Poison Strike 3\",\"Savage Blow 3\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Roderick) for Roderick does not have an investment cost tag and it should be LOW because of the skills: [\"Luna\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Can't touch this) for Roderick does not have an investment cost tag and it should be LOW because of the skills: [\"Death Blow 3\",\"Draconic Aura\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Savior) for Roy does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Swordbreaker 3\",\"Reposition\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Saber does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Saizo does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Sakura Blossoms) for Sakura does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Fortress Def 3\",\"Live to Serve 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Red Nuke) for Sanaki does not have an investment cost tag and it should be LOW because of the skills: [\"Swordbreaker 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quick Riposte Tank) for Selena does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Killing Edge+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Offensive Wo Dao) for Selena does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Wo Dao+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Damage Sponge) for Seliph does not have an investment cost tag and it should be LOW because of the skills: [\"Defiant Def 3\",\"Seal Atk 3\",\"Bonfire\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Seliph Defense Build) for Seliph does not have an investment cost tag and it should be LOW because of the skills: [\"Defiant Def 3\",\"Hone Atk 3\",\"Ignis\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Serra does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Seth does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave/Swordbreaker) for Setsuna does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Life and Death 3\",\"Brave Bow+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (The S tier build) for Shanna does not have an investment cost tag and it should be HIGH because of the skills: [\"Swift Sparrow 2\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Distant Counter) for Shanna does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quad) for Shanna does not have an investment cost tag and it should be HIGH because of the skills: [\"Swift Sparrow 2\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Good Against Everything Except Greens) for Sharena does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Lancebreaker 3\",\"Threaten Def 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Quick Riposte - Ignis) for Sheena does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Anti-Blue Sheena) for Sheena does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Guard 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Sonya does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Red Robin) for Sophia does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Rauðrraven+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Blade Tank) for Sophia does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Rauðrblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build () for Soren does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Killer Quick Riposte) for Subaki does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Killer Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low Investment Sully) for Sully does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Moonbow\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Vantage Moonbow) for Takumi does not have an investment cost tag and it should be LOW because of the skills: [\"Vantage 3\",\"Moonbow\",\"Draw Back\"]"
+  },
+  {
+    "severity": "ERROR",
+    "description": "The build (Budget Enemy Phase Optimal All-purpose Low investment) for Tana has an incorrect investment cost.  It is marked [LOW] and should be [MEDIUM] because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "ERROR",
+    "description": "The build (Dragon Tank Optimal All-purpose Low investment) for Tiki (Adult) has an incorrect investment cost.  It is marked [LOW] and should be [MEDIUM] because of the skills: [\"Quick Riposte 3\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Tiki (Adult) (Ylissean Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Fury/Riposte) for Tiki (Young) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Quick Riposte 3\",\"Lightning Breath+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Blue Killer) for Titania does not have an investment cost tag and it should be HIGH because of the skills: [\"Distant Counter\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Tobin does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Bolting Blade) for Ursula does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárblade+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Blue Raven) for Ursula does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Blárraven+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Valter does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Veronica does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Virion does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Wrys does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Blade of Nohr) for Xander does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Vantage 3\",\"Hone Cavalry\",\"Bonfire\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (-) for Xander (Nohrian Summer) does not have any skill inheritence"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Wall Xander) for Xander (Spring Festival) does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Killer Lance+\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Low SP\\SI Investment) for Zephiel does not have an investment cost tag and it should be LOW because of the skills: [\"Fury 3\",\"Ward Armor\",\"Aegis\",\"Swap\"]"
+  },
+  {
+    "severity": "WARN",
+    "description": "The build (Brave Zephiel) for Zephiel does not have an investment cost tag and it should be MEDIUM because of the skills: [\"Brave Sword+\"]"
+  }
+]

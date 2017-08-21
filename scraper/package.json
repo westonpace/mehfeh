@@ -1,0 +1,22 @@
+{
+  "name": "mehfeh-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes the FE wiki to build a model",
+  "scripts": {
+    "start": "tsc --project . && node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weston Pace",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mz": "0.0.31",
+    "mehfeh-model": "^1.0.0",
+    "mz": "^2.6.0",
+    "scrape-it": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.24",
+    "tslint": "^5.6.0",
+    "typescript": "^2.4.2"
+  }
+}

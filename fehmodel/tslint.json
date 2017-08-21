@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-microsoft-contrib"
+    ],
+    "jsRules": {},
+    "rules": {
+
+        "linebreak-style": [false],
+        "interface-name": [false],
+        "missing-jsdoc": [false]
+
+    },
+    "rulesDirectory": []
+}
