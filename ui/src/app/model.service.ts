@@ -17,7 +17,7 @@ export class ModelService {
     }
 
     private fetchModel() {
-        this.http.get('api/model').subscribe(rsp => {
+        this.http.get('assets/model.json').subscribe(rsp => {
             this._model.next(rsp.json() as Index);
         });
     }
