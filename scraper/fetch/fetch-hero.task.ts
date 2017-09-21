@@ -11,7 +11,9 @@ interface Table {
 }
 
 interface Fetch {
-    tables: Table[]
+    tables: Table[];
+    weaponType: string;
+    movementType: string;
 }
 
 export class FetchHeroTask implements Task<Index> {
@@ -82,10 +84,13 @@ export class FetchHeroTask implements Task<Index> {
 
     parseStat(stat: string) {
         let values = stat.split('/');
-        if(values.length !== 3) {
+        if(values.length === 3) {
+            return parseInt(values[1], 10);
+        } else if (values.length === 1) {
+            return parseInt(values[0]);
+        } else {
             return null;
         }
-        return parseInt(values[1], 10);
     }
 
     parseStatsTable(table: Table, hero: HeroItem) {
@@ -96,10 +101,10 @@ export class FetchHeroTask implements Task<Index> {
                 continue;
             }
             let hp = this.parseStat(row.columns[1]);
-            let atk = this.parseStat(row.columns[1]);
-            let spd = this.parseStat(row.columns[1]);
-            let def = this.parseStat(row.columns[1]);
-            let res = this.parseStat(row.columns[1]);
+            let atk = this.parseStat(row.columns[2]);
+            let spd = this.parseStat(row.columns[3]);
+            let def = this.parseStat(row.columns[4]);
+            let res = this.parseStat(row.columns[5]);
             if(hp === null || atk === null || spd === null || def === null || res === null) {
                 continue;
             }
@@ -132,7 +137,9 @@ export class FetchHeroTask implements Task<Index> {
             assistSkills: [],
             specialSkills: [],
             passiveSkills: [],
-            levelFortyStats: {}
+            levelFortyStats: {},
+            weaponType: '',
+            movementType: ''
         }
 
         this.parseStatsTable(tables[1], result);
@@ -161,13 +168,18 @@ export class FetchHeroTask implements Task<Index> {
                         listItem: 'th'
                     }
                 }
-            }
+            },
+            weaponType: '.hero-infobox tr:nth-of-type(4) td',
+            movementType: '.hero-infobox tr:nth-of-type(5) td'
         });
     }
 
     run(model: Index, taskEngine: TaskEngineControl) {
         return this.fetchData().then(fetched => {
-            model.heroes[this.heroName] = this.tablesToHeroItem(fetched.tables);
+            let heroItem = this.tablesToHeroItem(fetched.tables);
+            heroItem.weaponType = fetched.weaponType;
+            heroItem.movementType = fetched.movementType;
+            model.heroes[this.heroName] = heroItem
         });
     }
 

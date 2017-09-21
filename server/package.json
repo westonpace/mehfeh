@@ -4,17 +4,35 @@
   "description": "Server for the FE wiki metadata",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "gulp",
+    "servedebug": "gulp debug",
+    "build": "gulp buildonce",
+    "debug": "node --inspect dist/main.js",
+    "debug-brk": "node --inspect-brk dist/main.js"
   },
   "author": "Weston Pace",
   "license": "MIT",
+  "repository": "https://github.com/westonpace/mehfeh.git",
   "devDependencies": {
+    "@types/debug": "0.0.30",
     "@types/express": "^4.0.36",
+    "@types/lockfile": "^1.0.0",
+    "@types/mz": "0.0.31",
+    "@types/node": "^8.0.24",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31",
+    "gulp-typescript": "^3.2.1",
     "tslint": "^5.6.0",
     "typescript": "^2.4.2"
   },
   "dependencies": {
+    "debug": "^3.0.0",
+    "deepcopy": "^0.6.3",
     "express": "^4.15.4",
-    "fs-store": "^0.3.1"
+    "lockfile": "^1.0.3",
+    "mehfeh-model": "^1.0.0",
+    "mehfeh-scraper": "^1.0.0",
+    "morgan": "^1.8.2",
+    "mz": "^2.6.0"
   }
 }

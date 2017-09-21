@@ -2848,7 +2848,7 @@
         {
           "name": "Silver Lance+",
           "startsWith": 5,
-          "unlocked": 0
+          "unlocked": 5
         }
       ],
       "assistSkills": [
@@ -13767,7 +13767,7 @@
   "heroBuilds": {
     "Abel": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -13789,12 +13789,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Alfonse": [
       {
-        "name": "Low Investment Support Build Alfonse",
+        "name": "Low Investment Support Build Alfonse Low investment",
         "weaponSkills": [
           "Fólkvangr"
         ],
@@ -13820,10 +13822,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Prince of Askr",
+        "name": "Prince of Askr Medium investment",
         "weaponSkills": [
           "Fólkvangr"
         ],
@@ -13846,10 +13850,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "QuadAlfonse",
+        "name": "QuadAlfonse Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -13873,12 +13879,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Alm": [
       {
-        "name": "Almsgiving",
+        "name": "Almsgiving Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -13901,12 +13909,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Amelia": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -13928,12 +13938,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Anna": [
       {
-        "name": "Minimal Investment Anna",
+        "name": "Minimal Investment Anna Low investment",
         "weaponSkills": [
           "Nóatún"
         ],
@@ -13958,10 +13970,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Field Teleporter",
+        "name": "Field Teleporter Low investment",
         "weaponSkills": [
           "Nóatún"
         ],
@@ -13985,10 +13999,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Quadanna",
+        "name": "Quadanna Medium investment",
         "weaponSkills": [
           "Brave Axe+"
         ],
@@ -14011,12 +14027,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Arthur": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -14038,12 +14056,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Athena": [
       {
-        "name": "Sword Demon's Apprentice",
+        "name": "Sword Demon's Apprentice Medium investment",
         "weaponSkills": [
           "Wo Dao+",
           "Brave Sword+"
@@ -14069,10 +14089,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Low Investment Athena",
+        "name": "Low Investment Athena Low investment",
         "weaponSkills": [
           "Wo Dao+"
         ],
@@ -14097,7 +14119,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Azama": [
@@ -14138,7 +14162,7 @@
     ],
     "Azura": [
       {
-        "name": "Offensive Support",
+        "name": "Offensive Support Low investment",
         "weaponSkills": [
           "Sapphire Lance+"
         ],
@@ -14160,10 +14184,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Fury Offensive Support Azura",
+        "name": "Fury Offensive Support Azura Low investment",
         "weaponSkills": [
           "Sapphire Lance+"
         ],
@@ -14186,12 +14212,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Barst": [
       {
-        "name": "Barst God",
+        "name": "Barst God Low investment",
         "weaponSkills": [
           "Brave Axe+"
         ],
@@ -14214,7 +14242,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Bartre": [
@@ -14250,7 +14280,7 @@
     ],
     "Berkut": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -14272,12 +14302,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Beruka": [
       {
-        "name": "Wyvern Lord",
+        "name": "Wyvern Lord Low investment",
         "weaponSkills": [
           "Killer Axe+"
         ],
@@ -14299,12 +14331,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Boey": [
       {
-        "name": "Low Investment Boey",
+        "name": "Low Investment Boey Low investment",
         "weaponSkills": [
           "Gronnowl+"
         ],
@@ -14326,10 +14360,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Check-and-Bait!",
+        "name": "Check-and-Bait! Medium investment",
         "weaponSkills": [
           "Gronnraven+"
         ],
@@ -14352,12 +14388,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Bruno": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -14379,12 +14417,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Caeda": [
       {
-        "name": "Scourge of the Skies",
+        "name": "Scourge of the Skies High investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -14406,10 +14446,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Light Flier",
+        "name": "Light Flier Medium investment",
         "weaponSkills": [
           "Killing Edge+"
         ],
@@ -14431,12 +14473,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Caeda (Bridal Blessings)": [
       {
-        "name": "Anti-Mage/Buffbot Caeda",
+        "name": "Anti-Mage/Buffbot Caeda Low investment",
         "weaponSkills": [
           "Blessed Bouquet+",
           "Blárowl+"
@@ -14459,12 +14503,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Cain": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -14479,36 +14525,6 @@
         ],
         "bSkills": [
           "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      }
-    ],
-    "Camilla": [
-      {
-        "name": "Mage Crusher Cam Optimal Arena High investment",
-        "weaponSkills": [
-          "Melon Crusher+",
-          "Emerald Axe+"
-        ],
-        "supportSkills": [
-          "Reposition",
-          "Draw Back"
-        ],
-        "specialSkills": [
-          "Iceberg"
-        ],
-        "aSkills": [
-          "Distant Counter"
-        ],
-        "bSkills": [
-          "Quick Riposte 3",
-          "G Tomebreaker 3"
         ],
         "cSkills": [
           "Flexible"
@@ -14517,15 +14533,13 @@
           "Flexible"
         ],
         "tags": [
-          "Optimal",
-          "Arena",
-          "High investment"
+          "Low investment"
         ]
       }
     ],
     "Camilla (Spring Festival)": [
       {
-        "name": "Raven/Adept",
+        "name": "Raven/Adept Medium investment",
         "weaponSkills": [
           "Gronnraven+"
         ],
@@ -14547,10 +14561,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Flier Emblem",
+        "name": "Flier Emblem Medium investment",
         "weaponSkills": [
           "Gronnblade+"
         ],
@@ -14573,39 +14589,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Camus": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Catria": [
       {
-        "name": "Flier Emblem",
+        "name": "Flier Emblem Medium investment",
         "weaponSkills": [
           "Killer Lance+"
         ],
@@ -14627,12 +14618,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Cecilia": [
       {
-        "name": "Horse Emblem Utility-Cannon",
+        "name": "Horse Emblem Utility-Cannon Low investment",
         "weaponSkills": [
           "Gronnraven+"
         ],
@@ -14654,10 +14647,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "One-Shot Wonder",
+        "name": "One-Shot Wonder Medium investment",
         "weaponSkills": [
           "Gronnblade+"
         ],
@@ -14679,12 +14674,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Celica": [
       {
-        "name": "Glass Cannon",
+        "name": "Glass Cannon Medium investment",
         "weaponSkills": [
           "Ragnarok"
         ],
@@ -14707,10 +14704,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Fury Desperation Celica",
+        "name": "Fury Desperation Celica Low investment",
         "weaponSkills": [
           "Ragnarok"
         ],
@@ -14733,12 +14732,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Charlotte (Bridal Blessings)": [
       {
-        "name": "Brave Lance+",
+        "name": "Brave Lance+ Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -14761,12 +14762,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Cherche": [
       {
-        "name": "Mobile Nuke",
+        "name": "Mobile Nuke Medium investment",
         "weaponSkills": [
           "Brave Axe+"
         ],
@@ -14788,12 +14791,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Chrom": [
       {
-        "name": "Brave Sword",
+        "name": "Brave Sword Medium investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -14815,10 +14820,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Healer",
+        "name": "Healer Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -14840,12 +14847,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Chrom (Spring Festival)": [
       {
-        "name": "Suicide Lead",
+        "name": "Suicide Lead Medium investment",
         "weaponSkills": [
           "Killer Axe+"
         ],
@@ -14867,10 +14876,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Duelist",
+        "name": "Duelist Medium investment",
         "weaponSkills": [
           "Killer Axe+"
         ],
@@ -14892,12 +14903,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Clair": [
       {
-        "name": "Clair Airline",
+        "name": "Clair Airline Low investment",
         "weaponSkills": [
           "Silver Lance+",
           "Killer Lance+"
@@ -14924,10 +14937,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Quad-Clair",
+        "name": "Quad-Clair Medium investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -14949,12 +14964,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Clarine": [
       {
-        "name": "Gravity Bomb",
+        "name": "Gravity Bomb High investment",
         "weaponSkills": [
           "Gravity"
         ],
@@ -14979,12 +14996,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Clarisse": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -15006,12 +15025,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Clive": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -15033,12 +15054,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Cordelia": [
       {
-        "name": "Brave Lance+",
+        "name": "Brave Lance+ Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15062,10 +15085,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Firesweep Lance+",
+        "name": "Firesweep Lance+ High investment",
         "weaponSkills": [
           "Firesweep Lance+"
         ],
@@ -15090,12 +15115,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Cordelia (Bridal Blessings)": [
       {
-        "name": "Quadruple Attacker",
+        "name": "Quadruple Attacker Medium investment",
         "weaponSkills": [
           "Brave Bow+"
         ],
@@ -15118,10 +15145,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Firesweep Bow+",
+        "name": "Firesweep Bow+ High investment",
         "weaponSkills": [
           "Firesweep Bow+"
         ],
@@ -15144,15 +15173,18 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Budget Support",
+        "name": "Budget Support High investment",
         "weaponSkills": [
           "Cupid Arrow+"
         ],
         "supportSkills": [
-          "Rally Atk Spd"
+          "Rally Atk",
+          "Spd"
         ],
         "specialSkills": [
           "Draconic Aura",
@@ -15170,12 +15202,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Corrin (F)": [
       {
-        "name": "Anti Falchion",
+        "name": "Anti Falchion Medium investment",
         "weaponSkills": [
           "Dark Breath+"
         ],
@@ -15197,10 +15231,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Speedy Tank",
+        "name": "Speedy Tank Low investment",
         "weaponSkills": [
           "Dark Breath+"
         ],
@@ -15222,12 +15258,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Corrin (F) (Nohrian Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -15249,12 +15287,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Corrin (M)": [
       {
-        "name": "General Utility and Offtank",
+        "name": "General Utility and Offtank High investment",
         "weaponSkills": [
           "Yato"
         ],
@@ -15276,12 +15316,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Delthea": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -15303,12 +15345,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Donnel": [
       {
-        "name": "Make Brave Lance Great Again!",
+        "name": "Make Brave Lance Great Again! Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15330,12 +15374,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Draug": [
       {
-        "name": "Myrmidon Draug",
+        "name": "Myrmidon Draug Medium investment",
         "weaponSkills": [
           "Killing Edge+"
         ],
@@ -15357,12 +15403,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Effie": [
       {
-        "name": "Distant Counter",
+        "name": "Distant Counter High investment",
         "weaponSkills": [
           "Silver Lance+"
         ],
@@ -15386,10 +15434,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Brave Effie",
+        "name": "Brave Effie Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15412,12 +15462,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Eirika": [
       {
-        "name": "Offensive Support",
+        "name": "Offensive Support Low investment",
         "weaponSkills": [
           "Sieglinde"
         ],
@@ -15441,10 +15493,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Green Mage Counter Support",
+        "name": "Green Mage Counter Support High investment",
         "weaponSkills": [
           "Sieglinde"
         ],
@@ -15467,12 +15521,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Eldigan": [
       {
-        "name": "Offensive Tank",
+        "name": "Offensive Tank Low investment",
         "weaponSkills": [
           "Mystletainn"
         ],
@@ -15494,10 +15550,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "QR Eldigan",
+        "name": "QR Eldigan Medium investment",
         "weaponSkills": [
           "Mystletainn"
         ],
@@ -15521,39 +15579,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Elise": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Elise (Nohrian Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -15575,12 +15608,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Eliwood": [
       {
-        "name": "One-Punch Wood",
+        "name": "One-Punch Wood Low investment",
         "weaponSkills": [
           "Durandal"
         ],
@@ -15604,12 +15639,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Ephraim": [
       {
-        "name": "Prince of War",
+        "name": "Prince of War Low investment",
         "weaponSkills": [
           "Siegmund"
         ],
@@ -15631,10 +15668,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Sibling Bonds",
+        "name": "Sibling Bonds Low investment",
         "weaponSkills": [
           "Siegmund"
         ],
@@ -15657,10 +15696,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "The Fury of Renais",
+        "name": "The Fury of Renais Medium investment",
         "weaponSkills": [
           "Siegmund"
         ],
@@ -15682,12 +15723,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Est": [
       {
-        "name": "Flying Effie - Brave Lance Nuke Optimal Arena High investment",
+        "name": "Flying Effie - Brave Lance Nuke Optimal Arena Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15717,11 +15760,11 @@
         "tags": [
           "Optimal",
           "Arena",
-          "High investment"
+          "Low investment"
         ]
       },
       {
-        "name": "Budget Build (Brave Lance) Optimal Arena Medium investment",
+        "name": "Budget Build (Brave Lance) Optimal Arena Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15750,13 +15793,13 @@
         "tags": [
           "Optimal",
           "Arena",
-          "Medium investment"
+          "Low investment"
         ]
       }
     ],
     "Fae": [
       {
-        "name": "Fae: Bane of Blues",
+        "name": "Fae: Bane of Blues Medium investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -15780,7 +15823,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
         "name": "Reinhardt Counter Optimal Assault Low investment",
@@ -15818,7 +15863,7 @@
     ],
     "Faye": [
       {
-        "name": "Pure Damage - Attack",
+        "name": "Pure Damage - Attack Low investment",
         "weaponSkills": [
           "Firesweep Bow+"
         ],
@@ -15840,10 +15885,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Pure Damage - Speed",
+        "name": "Pure Damage - Speed Low investment",
         "weaponSkills": [
           "Firesweep Bow+"
         ],
@@ -15865,10 +15912,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Debuffing Support Faye",
+        "name": "Debuffing Support Faye Low investment",
         "weaponSkills": [
           "Firesweep Bow+"
         ],
@@ -15890,12 +15939,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Felicia": [
       {
-        "name": "Support Felicia",
+        "name": "Support Felicia Low investment",
         "weaponSkills": [
           "Silver Dagger+"
         ],
@@ -15917,10 +15968,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Mage Hunter",
+        "name": "Mage Hunter Medium investment",
         "weaponSkills": [
           "Rogue Dagger+"
         ],
@@ -15942,12 +15995,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Fir": [
       {
-        "name": "Fir",
+        "name": "Fir Low investment",
         "weaponSkills": [
           "Wo Dao+"
         ],
@@ -15969,12 +16024,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Florina": [
       {
-        "name": "Lancebreaker",
+        "name": "Lancebreaker Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -15996,12 +16053,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Frederick": [
       {
-        "name": "Physical Nuke",
+        "name": "Physical Nuke Medium investment",
         "weaponSkills": [
           "Brave Axe+"
         ],
@@ -16023,12 +16082,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Frederick (Ylissean Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16050,12 +16111,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Gaius": [
       {
-        "name": "Player Phase Candy Stealer",
+        "name": "Player Phase Candy Stealer Medium investment",
         "weaponSkills": [
           "Poison Dagger+"
         ],
@@ -16077,12 +16140,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Gaius (Ylissean Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16104,12 +16169,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Genny": [
       {
-        "name": "Offensive Genny",
+        "name": "Offensive Genny High investment",
         "weaponSkills": [
           "Assault"
         ],
@@ -16132,10 +16199,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Magic Wall Genny",
+        "name": "Magic Wall Genny Low investment",
         "weaponSkills": [
           "Panic",
           "Fear"
@@ -16158,12 +16227,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Gordin": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16185,7 +16256,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Gray": [
@@ -16227,7 +16300,7 @@
     ],
     "Gunter": [
       {
-        "name": "Horse Emblem Low-Cost Gunter",
+        "name": "Horse Emblem Low-Cost Gunter Low investment",
         "weaponSkills": [
           "Silver Axe+"
         ],
@@ -16251,7 +16324,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Gwendolyn": [
@@ -16288,7 +16363,7 @@
     ],
     "Hana": [
       {
-        "name": "Bravest Hana",
+        "name": "Bravest Hana Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -16310,12 +16385,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Hawkeye": [
       {
-        "name": "Nabata Guardian",
+        "name": "Nabata Guardian High investment",
         "weaponSkills": [
           "Brave Axe+"
         ],
@@ -16339,12 +16416,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Hector": [
       {
-        "name": "Standard Tank",
+        "name": "Standard Tank Low investment",
         "weaponSkills": [
           "Armads"
         ],
@@ -16370,12 +16449,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Henry": [
       {
-        "name": "Raven Adept",
+        "name": "Raven Adept Medium investment",
         "weaponSkills": [
           "Rauðrraven+"
         ],
@@ -16400,12 +16481,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Hinata": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16427,12 +16510,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Hinoka": [
       {
-        "name": "Standard Brave Lance+",
+        "name": "Standard Brave Lance+ Low investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -16457,12 +16542,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Ike": [
       {
-        "name": "Sword Tank",
+        "name": "Sword Tank Medium investment",
         "weaponSkills": [
           "Ragnell"
         ],
@@ -16486,10 +16573,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Heavy Blade Ike",
+        "name": "Heavy Blade Ike Medium investment",
         "weaponSkills": [
           "Ragnell"
         ],
@@ -16513,7 +16602,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Innes": [
@@ -16586,7 +16677,7 @@
     ],
     "Jaffar": [
       {
-        "name": "True Damage Jaffar",
+        "name": "True Damage Jaffar Low investment",
         "weaponSkills": [
           "Deathly Dagger"
         ],
@@ -16608,10 +16699,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Windsweeper Jaffar",
+        "name": "Windsweeper Jaffar High investment",
         "weaponSkills": [
           "Deathly Dagger"
         ],
@@ -16634,12 +16727,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Jagen": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16661,12 +16756,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Jakob": [
       {
-        "name": "Useful Butler",
+        "name": "Useful Butler Low investment",
         "weaponSkills": [
           "Silver Dagger+"
         ],
@@ -16692,12 +16789,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Jeorge": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16719,7 +16818,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Julia": [
@@ -16757,7 +16858,7 @@
     ],
     "Kagero": [
       {
-        "name": "Angel of Death",
+        "name": "Angel of Death Medium investment",
         "weaponSkills": [
           "Poison Dagger+"
         ],
@@ -16779,10 +16880,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Desperation",
+        "name": "Desperation Low investment",
         "weaponSkills": [
           "Poison Dagger+"
         ],
@@ -16806,10 +16909,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Hot Stove",
+        "name": "Hot Stove Low investment",
         "weaponSkills": [
           "Poison Dagger+"
         ],
@@ -16831,12 +16936,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Karel": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -16858,12 +16965,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Katarina": [
       {
-        "name": "Wayward Sage",
+        "name": "Wayward Sage Medium investment",
         "weaponSkills": [
           "Rauðrblade+"
         ],
@@ -16887,10 +16996,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Low Investment Katarina",
+        "name": "Low Investment Katarina Low investment",
         "weaponSkills": [
           "Rauðrowl+"
         ],
@@ -16912,12 +17023,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Klein": [
       {
-        "name": "Klein",
+        "name": "Klein Low investment",
         "weaponSkills": [
           "Brave Bow+"
         ],
@@ -16939,12 +17052,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lachesis": [
       {
-        "name": "Spread Damager",
+        "name": "Spread Damager High investment",
         "weaponSkills": [
           "Pain"
         ],
@@ -16966,12 +17081,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Laslow": [
       {
-        "name": "The Charmer Optimal All-purpose Medium investment",
+        "name": "The Charmer Optimal All-purpose Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -16999,7 +17116,7 @@
         "tags": [
           "Optimal",
           "All-purpose",
-          "Medium investment"
+          "Low investment"
         ]
       }
     ],
@@ -17008,7 +17125,7 @@
       {
         "name": "Prince of Nohr Optimal All-purpose Medium investment Cavalry",
         "weaponSkills": [
-          "Rauðrblade+"
+          "Rauorblade+"
         ],
         "supportSkills": [
           "Reposition",
@@ -17042,7 +17159,7 @@
     ],
     "Leo (Nohrian Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17064,12 +17181,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Leon": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17091,7 +17210,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lilina": [
@@ -17160,115 +17281,9 @@
         ]
       }
     ],
-    "Linde": [
-      {
-        "name": "Speed is Key (+Spd)",
-        "weaponSkills": [
-          "Blárblade+"
-        ],
-        "supportSkills": [
-          "Ardent Sacrifice"
-        ],
-        "specialSkills": [
-          "Moonbow"
-        ],
-        "aSkills": [
-          "Darting Blow 3"
-        ],
-        "bSkills": [
-          "Desperation 3"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      },
-      {
-        "name": "Speed is Key (+Atk)",
-        "weaponSkills": [
-          "Blárblade+"
-        ],
-        "supportSkills": [
-          "Ardent Sacrifice"
-        ],
-        "specialSkills": [
-          "Moonbow"
-        ],
-        "aSkills": [
-          "Darting Blow 3"
-        ],
-        "bSkills": [
-          "Desperation 3"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      }
-    ],
-    "Lissa": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      }
-    ],
-    "Lloyd": [
-      {
-        "name": "Mage Killer",
-        "weaponSkills": [
-          "Regal Blade"
-        ],
-        "supportSkills": [
-          "Reciprocal Aid"
-        ],
-        "specialSkills": [
-          "Moonbow"
-        ],
-        "aSkills": [
-          "Distant Counter"
-        ],
-        "bSkills": [
-          "Vantage 3"
-        ],
-        "cSkills": [
-          "Threaten Atk 3"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      }
-    ],
     "Lon'qu": [
       {
-        "name": "Offensive Set",
+        "name": "Offensive Set Medium investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -17290,12 +17305,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Lucina": [
       {
-        "name": "Healer",
+        "name": "Healer Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -17317,10 +17334,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Desperado",
+        "name": "Desperado Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -17343,10 +17362,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Drag Back",
+        "name": "Drag Back Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -17368,12 +17389,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lucina (Spring Festival)": [
       {
-        "name": "Super Spring Lucina!",
+        "name": "Super Spring Lucina! Medium investment",
         "weaponSkills": [
           "Blárblade+"
         ],
@@ -17395,10 +17418,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Bladebuster Blucina",
+        "name": "Bladebuster Blucina Medium investment",
         "weaponSkills": [
           "Blárblade+"
         ],
@@ -17420,12 +17445,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Lucius": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17447,12 +17474,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lukas": [
       {
-        "name": "Bait and Melt",
+        "name": "Bait and Melt Medium investment",
         "weaponSkills": [
           "Killer Lance+"
         ],
@@ -17474,12 +17503,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Luke": [
       {
-        "name": "Low Investment Luke",
+        "name": "Low Investment Luke Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -17503,12 +17534,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lyn": [
       {
-        "name": "Lyn",
+        "name": "Lyn Low investment",
         "weaponSkills": [
           "Sol Katti"
         ],
@@ -17530,12 +17563,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Lyn (Bridal Blessings)": [
       {
-        "name": "No Counter for You",
+        "name": "No Counter for You Low investment",
         "weaponSkills": [
           "Candlelight"
         ],
@@ -17557,12 +17592,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Mae": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17584,12 +17621,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Maria": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17611,12 +17650,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Marth": [
       {
-        "name": "Hero King Marth",
+        "name": "Hero King Marth Low investment",
         "weaponSkills": [
           "Falchion"
         ],
@@ -17638,12 +17679,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Marth (Masked)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17665,12 +17708,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Mathilda": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17692,12 +17737,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Matthew": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17719,39 +17766,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Merric": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Michalis": [
       {
-        "name": "Flying Tank",
+        "name": "Flying Tank Medium investment",
         "weaponSkills": [
           "Hauteclere"
         ],
@@ -17773,12 +17795,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Minerva": [
       {
-        "name": "Offensive Flier",
+        "name": "Offensive Flier Medium investment",
         "weaponSkills": [
           "Hauteclere"
         ],
@@ -17801,10 +17825,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Supersonic",
+        "name": "Supersonic Low investment",
         "weaponSkills": [
           "Hauteclere"
         ],
@@ -17826,12 +17852,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Mist": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17853,12 +17881,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Narcian": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -17880,12 +17910,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Navarre": [
       {
-        "name": "Lord NaFarquaad",
+        "name": "Lord NaFarquaad Medium investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -17907,12 +17939,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Niles": [
       {
-        "name": "Brave Bow + Desperation",
+        "name": "Brave Bow + Desperation Medium investment",
         "weaponSkills": [
           "Brave Bow+"
         ],
@@ -17934,12 +17968,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Ninian": [
       {
-        "name": "Standard Ninian",
+        "name": "Standard Ninian Medium investment",
         "weaponSkills": [
           "Dark Breath+"
         ],
@@ -17961,12 +17997,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Nino": [
       {
-        "name": "Fury Build",
+        "name": "Fury Build Low investment",
         "weaponSkills": [
           "Gronnblade+"
         ],
@@ -17988,10 +18026,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Glass Nuke",
+        "name": "Glass Nuke Medium investment",
         "weaponSkills": [
           "Gronnblade+"
         ],
@@ -18013,12 +18053,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Nowi": [
       {
-        "name": "Fury/Breaker",
+        "name": "Fury/Breaker Low investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -18040,10 +18082,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Triangle Adept/Quick Riposte",
+        "name": "Triangle Adept/Quick Riposte Medium investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -18065,10 +18109,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Triangle Adept/Lancebreaker",
+        "name": "Triangle Adept/Lancebreaker Low investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -18090,10 +18136,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Triangle Adept/Vantage",
+        "name": "Triangle Adept/Vantage Low investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -18115,12 +18163,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Oboro": [
       {
-        "name": "Killer Wall",
+        "name": "Killer Wall High investment",
         "weaponSkills": [
           "Killer Lance+"
         ],
@@ -18142,10 +18192,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Brave Wall",
+        "name": "Brave Wall Medium investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -18167,39 +18219,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Odin": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Ogma": [
       {
-        "name": "Basic Brave Sword Ogma",
+        "name": "Basic Brave Sword Ogma Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -18222,10 +18249,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "ORKO Ogma",
+        "name": "ORKO Ogma High investment",
         "weaponSkills": [
           "Wo Dao+"
         ],
@@ -18247,12 +18276,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Olivia": [
       {
-        "name": "Standard Dancer Olivia",
+        "name": "Standard Dancer Olivia Low investment",
         "weaponSkills": [
           "Ruby Sword+",
           "Wo Dao+"
@@ -18277,12 +18308,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Olwen": [
       {
-        "name": "Blitzkrieg",
+        "name": "Blitzkrieg Medium investment",
         "weaponSkills": [
           "Dire Thunder"
         ],
@@ -18304,10 +18337,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Horse Cavalry Bladetome Olwen",
+        "name": "Horse Cavalry Bladetome Olwen Medium investment",
         "weaponSkills": [
           "Blárblade+"
         ],
@@ -18330,12 +18365,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Palla": [
       {
-        "name": "Courageous Blade Palla Optimal All-purpose Medium investment Flying",
+        "name": "Courageous Blade Palla Optimal All-purpose Low investment Flying",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -18364,7 +18401,7 @@
         "tags": [
           "Optimal",
           "All-purpose",
-          "Medium investment",
+          "Low investment",
           "Flying"
         ]
       },
@@ -18404,7 +18441,7 @@
     ],
     "Peri": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -18426,66 +18463,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Priscilla": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
-      }
-    ],
-    "Raigh": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Raven": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -18507,12 +18492,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Rebecca": [
       {
-        "name": "Get Doubled",
+        "name": "Get Doubled Low investment",
         "weaponSkills": [
           "Silver Bow+"
         ],
@@ -18534,12 +18521,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Reinhardt": [
       {
-        "name": "Hammer Down!",
+        "name": "Hammer Down! Low investment",
         "weaponSkills": [
           "Dire Thunder"
         ],
@@ -18563,12 +18552,14 @@
         "sSkills": [
           "Quickened Pulse"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Robin (F)": [
       {
-        "name": "A Tactical Approach",
+        "name": "A Tactical Approach Medium investment",
         "weaponSkills": [
           "Gronnraven+",
           "Gronnwolf+"
@@ -18595,12 +18586,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Robin (F) (Ylissean Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -18622,12 +18615,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Robin (M)": [
       {
-        "name": "Checkmate",
+        "name": "Checkmate Low investment",
         "weaponSkills": [
           "Blárraven+"
         ],
@@ -18650,10 +18645,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Time to Tip The Scales!",
+        "name": "Time to Tip The Scales! Low investment",
         "weaponSkills": [
           "Blárraven+"
         ],
@@ -18678,12 +18675,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Roderick": [
       {
-        "name": "Low Investment Roderick",
+        "name": "Low Investment Roderick Low investment",
         "weaponSkills": [
           "Firesweep Lance+"
         ],
@@ -18705,10 +18704,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Can't touch this",
+        "name": "Can't touch this Low investment",
         "weaponSkills": [
           "Firesweep Lance+"
         ],
@@ -18735,12 +18736,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Roy": [
       {
-        "name": "Savior",
+        "name": "Savior Low investment",
         "weaponSkills": [
           "Binding Blade"
         ],
@@ -18763,7 +18766,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Ryoma": [
@@ -18800,7 +18805,7 @@
     ],
     "Saber": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -18822,39 +18827,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Saizo": [
-      {
-        "name": "-",
-        "weaponSkills": [
-          "Flexible"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Flexible"
-        ],
-        "aSkills": [
-          "Flexible"
-        ],
-        "bSkills": [
-          "Flexible"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Sakura": [
       {
-        "name": "Sakura Blossoms",
+        "name": "Sakura Blossoms Medium investment",
         "weaponSkills": [
           "Fear"
         ],
@@ -18876,12 +18856,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Sanaki": [
       {
-        "name": "Red Nuke",
+        "name": "Red Nuke Low investment",
         "weaponSkills": [
           "Cymbeline",
           "Rauðrraven+"
@@ -18904,12 +18886,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Selena": [
       {
-        "name": "Quick Riposte Tank",
+        "name": "Quick Riposte Tank Medium investment",
         "weaponSkills": [
           "Killing Edge+"
         ],
@@ -18932,10 +18916,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Offensive Wo Dao",
+        "name": "Offensive Wo Dao Low investment",
         "weaponSkills": [
           "Wo Dao+"
         ],
@@ -18961,12 +18947,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Seliph": [
       {
-        "name": "Damage Sponge",
+        "name": "Damage Sponge Low investment",
         "weaponSkills": [
           "Tyrfing"
         ],
@@ -18988,10 +18976,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Seliph Defense Build",
+        "name": "Seliph Defense Build Low investment",
         "weaponSkills": [
           "Tyrfing"
         ],
@@ -19013,12 +19003,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Serra": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19040,12 +19032,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Seth": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19067,7 +19061,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Setsuna": [
@@ -19102,7 +19098,7 @@
         ]
       },
       {
-        "name": "Brave/Swordbreaker",
+        "name": "Brave/Swordbreaker Medium investment",
         "weaponSkills": [
           "Brave Bow+"
         ],
@@ -19124,12 +19120,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Shanna": [
       {
-        "name": "The S tier build",
+        "name": "The S tier build High investment",
         "weaponSkills": [
           "Firesweep Lance+"
         ],
@@ -19153,10 +19151,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Distant Counter",
+        "name": "Distant Counter High investment",
         "weaponSkills": [
           "Sapphire Lance+"
         ],
@@ -19178,10 +19178,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Quad",
+        "name": "Quad High investment",
         "weaponSkills": [
           "Brave Lance+"
         ],
@@ -19206,12 +19208,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       }
     ],
     "Sharena": [
       {
-        "name": "Good Against Everything Except Greens",
+        "name": "Good Against Everything Except Greens Low investment",
         "weaponSkills": [
           "Fensalir"
         ],
@@ -19235,12 +19239,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Sheena": [
       {
-        "name": "Quick Riposte - Ignis",
+        "name": "Quick Riposte - Ignis High investment",
         "weaponSkills": [
           "Killer Axe+"
         ],
@@ -19264,10 +19270,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "High investment"
+        ]
       },
       {
-        "name": "Anti-Blue Sheena",
+        "name": "Anti-Blue Sheena Medium investment",
         "weaponSkills": [
           "Killer Axe+"
         ],
@@ -19291,12 +19299,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Sonya": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19318,12 +19328,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Sophia": [
       {
-        "name": "Red Robin",
+        "name": "Red Robin Medium investment",
         "weaponSkills": [
           "Rauðrraven+"
         ],
@@ -19347,10 +19359,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Blade Tank",
+        "name": "Blade Tank Medium investment",
         "weaponSkills": [
           "Rauðrblade+"
         ],
@@ -19372,12 +19386,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Soren": [
       {
-        "name": "",
+        "name": "Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19399,12 +19415,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Stahl": [
       {
-        "name": "Stahl the Chump Optimal Defense Medium investment Cavalry",
+        "name": "Stahl the Chump Optimal Defense Low investment Cavalry",
         "weaponSkills": [
           "Brave Sword+",
           "Wo Dao+"
@@ -19433,14 +19451,14 @@
         "tags": [
           "Optimal",
           "Defense",
-          "Medium investment",
+          "Low investment",
           "Cavalry"
         ]
       }
     ],
     "Subaki": [
       {
-        "name": "Killer Quick Riposte",
+        "name": "Killer Quick Riposte Medium investment",
         "weaponSkills": [
           "Killer Lance+"
         ],
@@ -19462,12 +19480,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Sully": [
       {
-        "name": "Low Investment Sully",
+        "name": "Low Investment Sully Low investment",
         "weaponSkills": [
           "Sapphire Lance+"
         ],
@@ -19493,12 +19513,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Takumi": [
       {
-        "name": "Vantage Moonbow",
+        "name": "Vantage Moonbow Low investment",
         "weaponSkills": [
           "Fujin Yumi"
         ],
@@ -19523,7 +19545,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Tana": [
@@ -19606,8 +19630,8 @@
           "Spd Def 2"
         ],
         "bSkills": [
-          "Quick Riposte 3",
-          "Quick Riposte 2"
+          "Quick Riposte 2",
+          "Quick Riposte 3"
         ],
         "cSkills": [
           "Guidance 3",
@@ -19687,7 +19711,7 @@
         ]
       },
       {
-        "name": "Dragon Tank Optimal All-purpose Low investment",
+        "name": "Dragon Tank Optimal All-purpose Medium investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -19713,13 +19737,13 @@
         "tags": [
           "Optimal",
           "All-purpose",
-          "Low investment"
+          "Medium investment"
         ]
       }
     ],
     "Tiki (Adult) (Ylissean Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19741,12 +19765,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Tiki (Young)": [
       {
-        "name": "Fury/Riposte",
+        "name": "Fury/Riposte Medium investment",
         "weaponSkills": [
           "Lightning Breath+"
         ],
@@ -19768,41 +19794,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
-      }
-    ],
-    "Titania": [
-      {
-        "name": "Blue Killer",
-        "weaponSkills": [
-          "Emerald Axe+"
-        ],
-        "supportSkills": [
-          "Flexible"
-        ],
-        "specialSkills": [
-          "Iceberg",
-          "Moonbow"
-        ],
-        "aSkills": [
-          "Distant Counter"
-        ],
-        "bSkills": [
-          "Desperation 3",
-          "G Tomebreaker 3"
-        ],
-        "cSkills": [
-          "Flexible"
-        ],
-        "sSkills": [
-          "Flexible"
-        ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Tobin": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19824,12 +19823,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Ursula": [
       {
-        "name": "Bolting Blade",
+        "name": "Bolting Blade Medium investment",
         "weaponSkills": [
           "Blárblade+"
         ],
@@ -19851,10 +19852,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       },
       {
-        "name": "Blue Raven",
+        "name": "Blue Raven Medium investment",
         "weaponSkills": [
           "Blárraven+"
         ],
@@ -19876,12 +19879,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Valter": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19903,12 +19908,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Veronica": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19930,12 +19937,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Virion": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19957,12 +19966,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Wrys": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -19984,40 +19995,48 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Xander": [
       {
-        "name": "Blade of Nohr",
+        "name": "The Paragon Knight Optimal All-purpose Medium investment Cavalry",
         "weaponSkills": [
           "Siegfried"
         ],
         "supportSkills": [
-          "Flexible"
+          "Reposition",
+          "Swap"
         ],
         "specialSkills": [
           "Bonfire",
           "Ignis"
         ],
         "aSkills": [
-          "Fury 3"
+          "Fury 3",
+          "Distant Def 3"
         ],
         "bSkills": [
-          "Vantage 3",
-          "R Tomebreaker 3"
+          "Quick Riposte 3"
         ],
         "cSkills": [
           "Hone Cavalry",
-          "Ward Cavalry"
+          "Threaten Defense"
         ],
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Optimal",
+          "All-purpose",
+          "Medium investment",
+          "Cavalry"
+        ]
       },
       {
-        "name": "He Protec, then he Attac Optimal Chain Low investment Cavalry",
+        "name": "Tempest Budget Xander Optimal Chain Low investment Cavalry",
         "weaponSkills": [
           "Siegfried"
         ],
@@ -20050,7 +20069,7 @@
     ],
     "Xander (Nohrian Summer)": [
       {
-        "name": "-",
+        "name": "- Low investment",
         "weaponSkills": [
           "Flexible"
         ],
@@ -20072,12 +20091,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ],
     "Xander (Spring Festival)": [
       {
-        "name": "Wall Xander",
+        "name": "Wall Xander Medium investment",
         "weaponSkills": [
           "Killer Lance+"
         ],
@@ -20099,12 +20120,14 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Medium investment"
+        ]
       }
     ],
     "Zephiel": [
       {
-        "name": "Low SP\\SI Investment",
+        "name": "Low SP\\SI Investment Low investment",
         "weaponSkills": [
           "Eckesachs"
         ],
@@ -20130,10 +20153,12 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       },
       {
-        "name": "Brave Zephiel",
+        "name": "Brave Zephiel Low investment",
         "weaponSkills": [
           "Brave Sword+"
         ],
@@ -20157,7 +20182,9 @@
         "sSkills": [
           "Flexible"
         ],
-        "tags": []
+        "tags": [
+          "Low investment"
+        ]
       }
     ]
   }

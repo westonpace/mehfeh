@@ -18,11 +18,14 @@ export interface HeroItem {
             resistance: number
         }
     };
+    weaponType: string;
+    movementType: string;
 }
 
 export interface HeroListItem {
     name: string;
     url: string;
+    imageUrl: string;
 }
 
 export interface HeroBuild {

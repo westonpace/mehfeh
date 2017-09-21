@@ -14,10 +14,14 @@ export class FetchHeroesTask implements Task<Index> {
     fetchData(): Promise<Fetch> {
         return scrapeIt('https://feheroes.gamepedia.com/Hero_List', {
             data: {
-                listItem: 'tr.hero-filter-element td:nth-child(2)',
+                listItem: 'tr.hero-filter-element',
                 data: {
+                    imageUrl: {
+                        selector: 'td:nth-child(1) a img',
+                        attr: 'src'
+                    },
                     url: {
-                        selector: 'a',
+                        selector: 'td:nth-child(2) a',
                         attr: 'href'
                     },
                     name: 'a'

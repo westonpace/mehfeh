@@ -9,6 +9,7 @@
   },
   "author": "Weston Pace",
   "license": "MIT",
+  "repository": "https://github.com/westonpace/mehfeh.git",
   "types": "dist/model.d.ts",
   "dependencies": {
     "tslint": "^5.6.0",
